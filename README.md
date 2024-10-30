@@ -1,6 +1,6 @@
 # 👋 Giới thiệu
 
-Xin chào! Tôi là **Nguyễn Hoàng Phước Thịnh**, sinh viên năm thứ **…** tại **Đại học Ngoại ngữ - Tin học TP. Hồ Chí Minh** (HUFLIT). Với đam mê khám phá và không ngừng học hỏi trong lĩnh vực công nghệ thông tin, tôi luôn khao khát chinh phục những thử thách mới và nỗ lực trở thành một lập trình viên chuyên nghiệp.
+Xin chào! Tôi là **Nguyễn Hoàng Phước Thịnh**, sinh viên năm thứ **3** tại **Đại học Ngoại ngữ - Tin học TP. Hồ Chí Minh** (HUFLIT). Với đam mê khám phá và không ngừng học hỏi trong lĩnh vực công nghệ thông tin, tôi luôn khao khát chinh phục những thử thách mới và nỗ lực trở thành một lập trình viên chuyên nghiệp.
 
 ---
 
